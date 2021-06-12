@@ -1,1 +1,3 @@
 # Code-Refactor
+
+For this project I was assigned to organize the coded website and switch the code from using non-semantic to semantic elements. I accomplished this by moving code in both the css and html files in order to how its displayed on the website. I also switched all div elements into semantic elements. I was also able to label each section for easy programming reference and I also added alt tags to images and titles to make items easier to reference.
